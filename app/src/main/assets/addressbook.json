@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Shawn",
+      "phones": {
+        "personal": "1234",
+        "work": "2314"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Steph",
+      "phones": {
+        "personal": "12-34",
+        "work": "23-14"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nick",
+      "phones": {
+        "personal": "4321",
+        "work": "4231"
+      }
+    }
+  ]
+}
